@@ -11,5 +11,7 @@ public class ChandankiAct extends AppCompatActivity {
         setContentView(R.layout.activity_chandanki);
 
         System.out.println("hogya");
+        System.out.println("hogya 2");
+
     }
 }
