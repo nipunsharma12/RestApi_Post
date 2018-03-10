@@ -9,5 +9,7 @@ public class ChandankiAct extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_chandanki);
+
+        System.out.println("hogya");
     }
 }
