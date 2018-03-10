@@ -12,6 +12,13 @@ public class ChandankiAct extends AppCompatActivity {
 
         System.out.println("hogya");
         System.out.println("hogya 2");
-dfjdsnvjn
+        System.out.println("hogya");
+        System.out.println("hogya 2");   System.out.println("hogya");
+        System.out.println("hogya 2");   System.out.println("hogya");
+        System.out.println("hogya 2");   System.out.println("hogya");
+        System.out.println("hogya 2");   System.out.println("hogya");
+        System.out.println("hogya 2");   System.out.println("hogya");
+        System.out.println("hogya 2");   System.out.println("hogya");
+        System.out.println("hogya 2");
     }
 }
