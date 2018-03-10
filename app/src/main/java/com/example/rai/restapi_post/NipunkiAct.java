@@ -9,5 +9,7 @@ public class NipunkiAct extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_nipunki);
+
+        System.out.println("CHAL GAYA BHAI");
     }
 }
