@@ -11,5 +11,7 @@ public class NipunkiAct extends AppCompatActivity {
         setContentView(R.layout.activity_nipunki);
 
         System.out.println("CHAL GAYA BHAI");
+
+        System.out.println("saifondsoifndsoif");
     }
 }
